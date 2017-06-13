@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Rhelda's Resume"
+description: "."
 
 # Build settings
 markdown: kramdown
@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Rhelda L. Vickers"
-resume_title:                   "Rhelda's Resume"
+resume_title:                   "Github Scholar"
 resume_contact_email:
   "rheldarhoo@gmail.com"
 resume_header_contact_info: "742 Evergreen Terrace, Springfield | 555-7334 | homerjsimpson@youremailaddress.com"
