@@ -1,6 +1,6 @@
 # Site settings
 title: "Rhelda's Resume"
-description: "."
+description: "When I get out of college, I plan to be a registered nurse{R.N} or a school teacher. I am learning coding and I am knowledged in technology such as phones and computers."
 
 # Build settings
 markdown: kramdown
@@ -14,8 +14,8 @@ resume_name:                    "Rhelda L. Vickers"
 resume_title:                   "Github Scholar"
 resume_contact_email:
   "rheldarhoo@gmail.com"
-resume_header_contact_info: "742 Evergreen Terrace, Springfield | 555-7334 | homerjsimpson@youremailaddress.com"
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but K.I.S.S.</p>"
+resume_header_contact_info: "123 Clovers Field Ln | {770}-374-2808 | rheldarhoo@gmail.com"
+resume_header_intro: "<p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
